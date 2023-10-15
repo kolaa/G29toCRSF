@@ -1,0 +1,28 @@
+{
+  "cmake.configureOnOpen": false,
+  "cmake.statusbar.advanced": {
+    "debug" : {
+      "visibility": "hidden"
+              },
+    "launch" : {
+      "visibility": "hidden"
+               },
+    "build" : {
+      "visibility": "hidden"
+               },
+    "buildTarget" : {
+      "visibility": "hidden"
+               },
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+      "algorithm": "cpp",
+      "*.tcc": "cpp",
+      "tusb.h": "c",
+      "stdlib.h": "c",
+      "hid_host.h": "c",
+      "gamepad.h": "c",
+      "board.h": "c",
+      "ansi_escape.h": "c"
+    },
+}
